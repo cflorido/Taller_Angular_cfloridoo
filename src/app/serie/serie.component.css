@@ -1,0 +1,37 @@
+td {
+    padding: 5px;
+    text-align: left;
+  }
+  tr.title-row {
+    background-color: white; 
+  }
+  tr{
+    background-color: whitesmoke;
+  }
+  th {
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    padding: 10px;
+  }
+  th {
+    font-size: 28px;
+
+  }
+  td:nth-child(1) {
+    font-weight: bold;
+    background-color: whitesmoke;
+  }
+  td {
+    font-size: 22px;
+  }
+  td:nth-child(2) {
+    color: rgb(57, 159, 222);
+    background-color: whitesmoke;
+  }
+  td:nth-child(4){
+      background-color: whitesmoke;
+  }
+  td:nth-child(3){
+      background-color: whitesmoke;
+  }
